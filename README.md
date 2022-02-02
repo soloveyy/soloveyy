@@ -12,6 +12,12 @@
     </a>
   </div>
 <div/>
+  
+<div align="center">
+  <img src="https://docs.microsoft.com/en-us/shows/hello-world/media/helloworld_383x215.png" />
+</div>
+### :man_technologist: About Me :
+  I am a Frontend Developer <img src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47e8we7d0sff8juco1pj4x2v76wwoa1j2embpltmp2&rid=giphy.gif&ct=g" width="50"> from 🇺🇦 but living in 🇵🇱
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -27,3 +33,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   
 </div>
+
