@@ -12,13 +12,14 @@
     </a>
   </div>
 <div/>
-  
+
 <div align="center">
   <img src="https://docs.microsoft.com/en-us/shows/hello-world/media/helloworld_383x215.png" />
 </div>
-### :man_technologist: About Me :
-  I am a Frontend Developer <img src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47e8we7d0sff8juco1pj4x2v76wwoa1j2embpltmp2&rid=giphy.gif&ct=g" width="50"> from 🇺🇦 but living in 🇵🇱
 
+### :man_technologist: About Me :
+  I am a Frontend Developer  from <img src="https://cdn.countryflags.com/thumbs/ukraine/flag-400.png" height="10"> but living in <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="10">
+### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -31,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-  
 </div>
 
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soloveyy&theme=dark&background=000000)](https://git.io/streak-stats)
