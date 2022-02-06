@@ -18,7 +18,7 @@
 </div>
 
 ### :man_technologist: About Me :
-  I am a Frontend Developer  from <img src="https://cdn.countryflags.com/thumbs/ukraine/flag-400.png" height="10"> but living in <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="10">
+  I am a Frontend Developer  from <img src="https://cdn.countryflags.com/thumbs/ukraine/flag-400.png" height="10"> and living in Wrocław <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" height="10">
 ### :hammer_and_wrench: Languages and Tools :
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
